@@ -11,6 +11,6 @@ I hold a B.Eng. in Electrical Engineering and Automation from [Southeast Univers
 
 I am very fortunate to be advised by [Prof. Xinghe Fu](https://ieeexplore.ieee.org/author/37980581000), Southeast University. I was advised by [[Prof. Xiaoyong Zhu]](https://ieeexplore.ieee.org/author/37536987700) from Jiangsu University.
 
-You can find my CV here: [Zhaoheng's Curriculum Vitae](../assets/Zhaoheng Wang_Academic CV.pdf).
+You can find my CV here: [Zhaoheng's Curriculum Vitae](../assets/Zhaoheng_AcademicCV.pdf).
 
 [Email](mailto:zhaoheng.oscar@gmail.com) 
